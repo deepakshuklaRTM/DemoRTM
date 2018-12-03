@@ -1,0 +1,33 @@
+C:\TIS-Web4.1\RTMWEBSERVICE\VOService\obj\Debug\ResolveAssemblyReference.cache
+C:\TIS-Web4.1\RTMWEBSERVICE\VOService\bin\Debug\VOService.dll
+C:\TIS-Web4.1\RTMWEBSERVICE\VOService\bin\Debug\VOService.pdb
+C:\TIS-Web4.1\RTMWEBSERVICE\VOService\obj\Debug\VOService.dll
+C:\TIS-Web4.1\RTMWEBSERVICE\VOService\obj\Debug\VOService.pdb
+C:\TIS-Web4.1\XMLWebServices\TISRTMWEBSERVICE\VOService\bin\Debug\VOService.dll
+C:\TIS-Web4.1\XMLWebServices\TISRTMWEBSERVICE\VOService\bin\Debug\VOService.pdb
+C:\TIS-Web4.1\XMLWebServices\TISRTMWEBSERVICE\VOService\obj\Debug\ResolveAssemblyReference.cache
+C:\TIS-Web4.1\XMLWebServices\TISRTMWEBSERVICE\VOService\obj\Debug\VOService.dll
+C:\TIS-Web4.1\XMLWebServices\TISRTMWEBSERVICE\VOService\obj\Debug\VOService.pdb
+C:\RTMService\VOService\bin\Debug\VOService.dll
+C:\RTMService\VOService\bin\Debug\VOService.pdb
+C:\RTMService\VOService\obj\Debug\ResolveAssemblyReference.cache
+C:\RTMService\VOService\obj\Debug\VOService.dll
+C:\RTMService\VOService\obj\Debug\VOService.pdb
+C:\TIS-Web RTM 1.0_AT1\XMLWebServices\TISRTMWEBSERVICE\VOService\bin\Debug\VOService.dll
+C:\TIS-Web RTM 1.0_AT1\XMLWebServices\TISRTMWEBSERVICE\VOService\bin\Debug\VOService.pdb
+C:\TIS-Web RTM 1.0_AT1\XMLWebServices\TISRTMWEBSERVICE\VOService\obj\Debug\VOService.dll
+C:\TIS-Web RTM 1.0_AT1\XMLWebServices\TISRTMWEBSERVICE\VOService\obj\Debug\VOService.pdb
+C:\TIS-Web RTM 1.0_AT1\XMLWebServices\TISRTMWEBSERVICE\VOService\obj\Debug\ResolveAssemblyReference.cache
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServices\VOService\bin\Debug\VOService.dll
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServices\VOService\bin\Debug\VOService.pdb
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServices\VOService\obj\Debug\VOService.dll
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServices\VOService\obj\Debug\VOService.pdb
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServiceWR\VOService\bin\Debug\VOService.dll
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServiceWR\VOService\bin\Debug\VOService.pdb
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServiceWR\VOService\obj\Debug\VOService.dll
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServiceWR\VOService\obj\Debug\VOService.pdb
+C:\Project-Docs\RTM\SRC\CR-481\WebServices\TISRTMWebServiceWR\VOService\bin\Debug\VOService.dll
+C:\Project-Docs\RTM\SRC\CR-481\WebServices\TISRTMWebServiceWR\VOService\bin\Debug\VOService.pdb
+C:\Project-Docs\RTM\SRC\CR-481\WebServices\TISRTMWebServiceWR\VOService\obj\Debug\VOService.csproj.CoreCompileInputs.cache
+C:\Project-Docs\RTM\SRC\CR-481\WebServices\TISRTMWebServiceWR\VOService\obj\Debug\VOService.dll
+C:\Project-Docs\RTM\SRC\CR-481\WebServices\TISRTMWebServiceWR\VOService\obj\Debug\VOService.pdb

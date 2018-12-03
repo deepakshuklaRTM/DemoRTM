@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{69E80E07-41C0-4C53-B930-6948620D822C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VOService</RootNamespace>
+    <AssemblyName>VOService</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountDetailsXMLParent.cs" />
+    <Compile Include="AccountsDetailsXMLChild.cs" />
+    <Compile Include="AuthenticationVO.cs" />
+    <Compile Include="AutoFailureVO.cs" />
+    <Compile Include="CommandDLDDDataVO.cs" />
+    <Compile Include="CommandGPSDDataVO.cs" />
+    <Compile Include="CommandGPSDDataVO_1b1_5_5.cs" />
+    <Compile Include="CommandResponseVO.cs" />
+    <Compile Include="CommandStatusVO.cs" />
+    <Compile Include="AccountVO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompanyCardDetails.cs" />
+    <Compile Include="CompanyCardVO.cs" />
+    <Compile Include="ConfigParameter.cs" />
+    <Compile Include="CustomerRequestListVO.cs" />
+    <Compile Include="DAOResponceVO.cs" />
+    <Compile Include="DLDDetailsUIVO.cs" />
+    <Compile Include="DLDPatchVO.cs" />
+    <Compile Include="DownloadList.cs" />
+    <Compile Include="DTCOVO.cs" />
+    <Compile Include="DueDownloadVORTM.cs" />
+    <Compile Include="EntityVORTM.cs" />
+    <Compile Include="EntityVORTMString.cs" />
+    <Compile Include="FileTransferStatusVO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoteDeviceRegistrationVO.cs" />
+    <Compile Include="RemoteServiceVO.cs" />
+    <Compile Include="RequestListVO.cs" />
+    <Compile Include="ServiceInfo.cs" />
+    <Compile Include="ServiceVO.cs" />
+    <Compile Include="SiteDetailsXMLChild.cs" />
+    <Compile Include="SiteDetailsXMLParent.cs" />
+    <Compile Include="SiteVO.cs" />
+    <Compile Include="SmartLinkConfigurationVO.cs" />
+    <Compile Include="SV.cs" />
+    <Compile Include="TISWEBCompanyVO.cs" />
+    <Compile Include="TISWEBFrequencyFileExt.cs" />
+    <Compile Include="UserSiteMappingVO.cs" />
+    <Compile Include="VU.cs" />
+    <Compile Include="WLANSettingVO.cs" />
+    <Compile Include="WRAccountsVO.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\DALService.dll" />
+    <Content Include="bin\Debug\DALService.pdb" />
+    <Content Include="bin\Debug\RTMWEBSERVICES.dll" />
+    <Content Include="bin\Debug\RTMWEBSERVICES.pdb" />
+    <Content Include="bin\Debug\VOService.dll" />
+    <Content Include="bin\Debug\VOService.pdb" />
+    <Content Include="obj\Debug\VOService.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\VOService.dll" />
+    <Content Include="obj\Debug\VOService.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mssccprj.scc" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

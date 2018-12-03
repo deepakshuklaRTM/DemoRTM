@@ -1,0 +1,12 @@
+C:\RTMService\VOService\bin\Release\VOService.dll
+C:\RTMService\VOService\bin\Release\VOService.pdb
+C:\RTMService\VOService\obj\Release\ResolveAssemblyReference.cache
+C:\RTMService\VOService\obj\Release\VOService.dll
+C:\RTMService\VOService\obj\Release\VOService.pdb
+C:\TIS-Web RTM 1.0_AT1\XMLWebServices\TISRTMWEBSERVICE\VOService\obj\Release\ResolveAssemblyReference.cache
+C:\TIS-Web RTM 1.0_AT1\XMLWebServices\TISRTMWEBSERVICE\VOService\obj\Release\VOService.dll
+C:\TIS-Web RTM 1.0_AT1\XMLWebServices\TISRTMWEBSERVICE\VOService\obj\Release\VOService.pdb
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServices\VOService\bin\Release\VOService.dll
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServices\VOService\bin\Release\VOService.pdb
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServices\VOService\obj\Release\VOService.dll
+C:\Project-Docs\RTM\TISRTM\TISRTM_Services\WebServices\VOService\obj\Release\VOService.pdb
